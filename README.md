@@ -1,7 +1,8 @@
-# CodeUpAlgorithm
-CodeUp basic 100 answer using C language
+## CodeUp Algorithm  
+### CodeUp basic 100 answer using C language
 
-2022.01.05  
+-----------------------------
+#### __2022.01.05__  
 1001  
 1002  
 1003  
